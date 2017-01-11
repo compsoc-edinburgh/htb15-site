@@ -18,11 +18,11 @@ navigation:
    url: "#faq"
  - text: "Sponsors"
    url: "#sponsors"
- - text: Twitter Wall
-   url: "/wall"
+# - text: Twitter Wall
+#   url: "/wall"
  - text: Where is HTB?
    url: "#map"
- - text: "Mailing List"
-   url: "https://ti.to/hacktheburgh/htb2015"
+# - text: "Mailing List"
+#   url: "https://ti.to/hacktheburgh/htb2015"
 
 permalink: pretty
